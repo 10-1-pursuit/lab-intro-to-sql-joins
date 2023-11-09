@@ -22,4 +22,12 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+Just for practice purposes, I chose 3.
+
 - What are three things you learned during this lab?
+
+1. The difference between one to many and many to many. 
+
+2. Foreign keys are usually id, where it helps connect the tables.
+
+3. Organizing data into multiple tables to improve updating, inserting, deleting, and reading data is called database normalization.
