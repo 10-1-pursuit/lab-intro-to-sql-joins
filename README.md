@@ -21,5 +21,10 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
-
+Work your way through SQL Bolt
 - What are three things you learned during this lab?
+1. In SQL databases provide safe and scalable storage
+for websites and mobile applications.
+2. A relational database represents a collection for related tables.
+3. SQL how to answer specific questions about the data. 
+ How many labrador retrievers are chocolate brown?
