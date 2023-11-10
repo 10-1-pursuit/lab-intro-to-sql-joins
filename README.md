@@ -21,5 +21,8 @@ Rate your comfort and choose the matching activity
 ### In Canvas, answer the following questions:
 
 - Which resource did you choose to use?
-
+The resource that I choose was the SQL zoo.
 - What are three things you learned during this lab?
+: I learn how to use the table correctly when using the psql command line.
+: I also learn that using specific % wildcard can match any characters in the psql.
+: I learn that every distinct value can be counted as diffenent values.
