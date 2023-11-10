@@ -22,4 +22,10 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+Work your way through SQL Zoo but also cloned down the soccer data to play around with it as well. 
+
 - What are three things you learned during this lab?
+
+1. How to specify join conditions and retrieve information from related tables.
+2. Understanding the basic syntax and structure of SQL queries.
+3. Practicing SELECT statements with various conditions and filters.
