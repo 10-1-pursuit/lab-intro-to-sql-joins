@@ -9,6 +9,7 @@ Finish Regifter, if you haven't
 Choose Your Own Learning
 
 Rate your comfort and choose the matching activity
+I'm between hanging in there and feeling good. I could use more practice, but I notice that I can't do the first question because I struggle with building the query statement, but after seeing the solution to the first question I can solve the rest of the questions. 
 
 | Rating |              What it means               |                                                                                                               What you should work on                                                                                                               |
 | :----: | :--------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
@@ -20,6 +21,13 @@ Rate your comfort and choose the matching activity
 
 ### In Canvas, answer the following questions:
 
-- Which resource did you choose to use?
+- Which resource did you choose to use? I have chose resource 2, which is work your way through SQL Bolt. 
 
 - What are three things you learned during this lab?
+
+1. I learned that SQL does not require the user to type the keywords all in CAPS but that it is good practice while practicing SQL because it helps distinguish SQL query commands from tables and columns. 
+
+2. Tables that share information about a single entity require a primary key or identifier. A common primary key type is the auto-incrementing integer, which is space efficient. Primary keys can also be written as a string, hashed value, so long as it is unique.
+
+3. It's always good practice to avoid null values inside the table by alternatively entering appropropriate default data-type values, such as  0 for numerical data, and empty string for text data.
+
