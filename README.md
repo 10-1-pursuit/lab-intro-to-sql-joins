@@ -22,4 +22,12 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+- sql zoo
+
 - What are three things you learned during this lab?
+
+- 1. I understand some basic queries.
+
+- 2. I practiced with LENTH, ROUND and some more functions.
+
+- 3. I practiced writing some JOIN queries.
