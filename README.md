@@ -22,4 +22,16 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+I choose to use number 3
+
 - What are three things you learned during this lab?
+
+ I learned about SELECT within SELECT or Nested Select.
+
+  how to excludes characters from a results. Ex: You can use the phrase name NOT LIKE '%a%'
+
+  how to use LENGTH function to find the number of characteres in a string
+  Ex: SELECT name, LENGTH(name), continent, LENGTH(continent), capital, LENGTH(capital)
+  FROM world
+ WHERE name LIKE 'G%'  
+
