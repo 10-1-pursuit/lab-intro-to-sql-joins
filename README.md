@@ -23,3 +23,12 @@ Rate your comfort and choose the matching activity
 - Which resource did you choose to use?
 
 - What are three things you learned during this lab?
+ 
+ I did sql zoo, and sql bolt
+
+- What are three things you learned during this lab?
+I learned that you can use Between to search for a value between a certain limit.
+
+I learned that you can use IN to , basically like a query search to see if data exist in a table.
+
+I also learned that there are many ways to access data in a table.
